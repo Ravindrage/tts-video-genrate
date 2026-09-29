@@ -1,0 +1,5 @@
+file 'D:/tts-video-genrate/clips/01_hook.mp4'
+file 'D:/tts-video-genrate/clips/02_problem.mp4'
+file 'D:/tts-video-genrate/clips/03_solution.mp4'
+file 'D:/tts-video-genrate/clips/04_proof.mp4'
+file 'D:/tts-video-genrate/clips/05_cta.mp4'

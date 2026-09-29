@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:01,698
+Still chasing invoices by hand
+
+2
+00:00:01,698 --> 00:00:02,717
+every single week?
+
+3
+00:00:03,217 --> 00:00:05,258
+Manual follow-ups waste ten hours
+
+4
+00:00:05,258 --> 00:00:06,557
+a week and cash still
+
+5
+00:00:06,557 --> 00:00:07,361
+arrives late.
+
+6
+00:00:07,861 --> 00:00:10,124
+Our tool sends reminders automatically
+
+7
+00:00:10,124 --> 00:00:12,029
+and reconciles payments for you.
+
+8
+00:00:12,529 --> 00:00:14,155
+Teams get paid twelve days
+
+9
+00:00:14,155 --> 00:00:15,281
+faster on average.
+
+10
+00:00:15,781 --> 00:00:17,219
+Book a free demo today.
+
+11
+00:00:17,219 --> 00:00:18,533
+Link in the comments.
+

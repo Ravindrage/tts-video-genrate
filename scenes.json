@@ -1,0 +1,53 @@
+{
+  "video": {
+    "width": 1080,
+    "height": 1350,
+    "fps": 30,
+    "tail_pad": 0.5,
+    "music": null,
+    "music_volume": 0.10
+  },
+  "voice": {
+    "piper_cmd": "piper",
+    "model": "models/en_US-lessac-medium.onnx"
+  },
+  "images": {
+    "style_suffix": "clean modern flat illustration, soft lighting, consistent blue and white palette, no text",
+    "generate_model": "stabilityai/stable-diffusion-xl-base-1.0",
+    "gen_width": 832,
+    "gen_height": 1024,
+    "steps": 25,
+    "guidance": 6.5
+  },
+  "captions": {
+    "font_size": 15,
+    "max_words": 5
+  },
+  "scenes": [
+    {
+      "id": "01_hook",
+      "narration": "Still chasing invoices by hand every single week?",
+      "image_prompt": "frustrated office worker buried under paper invoices at a desk"
+    },
+    {
+      "id": "02_problem",
+      "narration": "Manual follow-ups waste ten hours a week and cash still arrives late.",
+      "image_prompt": "calendar with clock and coins arriving slowly on a conveyor belt"
+    },
+    {
+      "id": "03_solution",
+      "narration": "Our tool sends reminders automatically and reconciles payments for you.",
+      "image_prompt": "friendly automation dashboard with checkmarks and paid invoices"
+    },
+    {
+      "id": "04_proof",
+      "narration": "Teams get paid twelve days faster on average.",
+      "image_prompt": "upward growth chart with happy team celebrating"
+    },
+    {
+      "id": "05_cta",
+      "narration": "Book a free demo today. Link in the comments.",
+      "image_prompt": "laptop showing a calendar booking screen, inviting and bright"
+    }
+  ]
+}
