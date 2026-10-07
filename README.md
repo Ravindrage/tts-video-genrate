@@ -125,6 +125,7 @@ The first run downloads several GB of model weights.
 
 ```
 python make_video.py
+"C:\Users\Ravindra\AppData\Local\Programs\Python\Python312\python.exe" make_video.py
 ```
 
 The finished video is written to `out\final.mp4`, with captions burned in
